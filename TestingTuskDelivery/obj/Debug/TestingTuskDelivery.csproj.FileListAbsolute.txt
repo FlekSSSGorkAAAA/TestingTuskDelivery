@@ -1,0 +1,7 @@
+C:\Projects\TestingTuskDelivery\TestingTuskDelivery\obj\Debug\TestingTuskDelivery.csproj.AssemblyReference.cache
+C:\Projects\TestingTuskDelivery\TestingTuskDelivery\obj\Debug\TestingTuskDelivery.csproj.CoreCompileInputs.cache
+C:\Projects\TestingTuskDelivery\TestingTuskDelivery\bin\Debug\TestingTuskDelivery.exe.config
+C:\Projects\TestingTuskDelivery\TestingTuskDelivery\bin\Debug\TestingTuskDelivery.exe
+C:\Projects\TestingTuskDelivery\TestingTuskDelivery\bin\Debug\TestingTuskDelivery.pdb
+C:\Projects\TestingTuskDelivery\TestingTuskDelivery\obj\Debug\TestingTuskDelivery.exe
+C:\Projects\TestingTuskDelivery\TestingTuskDelivery\obj\Debug\TestingTuskDelivery.pdb
